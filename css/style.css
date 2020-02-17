@@ -158,3 +158,79 @@ a:hover{
     height: 15%;
   
 }
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+    .top-container{
+        background-color: #E4F9F5;
+        position: relative;
+        padding-top: 100px;
+        width: 600px;
+    }
+    .middle-container{
+        margin: 100px 0;
+        width: 600px;
+
+       
+    }
+    .bottom-container{
+        background-color: #66BFBF;
+        padding: 50px 0 20px;
+        width: 600px;
+
+        
+    }
+    .myPic{
+        border-radius: 100%;
+        width: 30%;
+        height: 30%;
+    }
+    .grad{
+        border-radius: 100%;
+        width: 30%;
+        height: 30%;
+        float: none;
+
+    }
+    .Computer{
+        border-radius: 100%;
+        width: 30%;
+        height: 30%;
+        float: none;
+
+    }
+    .Wrench{
+        border-radius: 100%;
+        width: 30%;
+        height: 30%;
+        float: none;
+
+    }
+    .cert{
+        border-radius: 100%;
+        width: 30%;
+        height: 30%;
+        float: none;
+
+    }
+    .Ron{
+        border-radius: 100%;
+        width: 30%;
+        height: 30%;
+        
+    }
+    .figs{
+        border-radius: 100%;
+        width: 30%;
+        height: 30%;
+    }
+    .skill-row{
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: center;
+        
+    }
+
+
+}
